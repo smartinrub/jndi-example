@@ -1,0 +1,12 @@
+#This file is used by the JNDI FSContext.
+#Tue Jul 07 20:54:26 BST 2020
+my-service/RefAddr/1/Type=status
+my-service/RefAddr/1/Encoding=String
+my-service/RefAddr/0/Content=Test
+my-service/RefAddr/0/Encoding=String
+my-service/RefAddr/0/Type=name
+my-service/RefAddr/2/Encoding=String
+my-service/RefAddr/2/Content=true
+my-service/ClassName=com.sergiomartinrubio.jndiexample.MyService
+my-service/RefAddr/1/Content=OK
+my-service/RefAddr/2/Type=isActive
