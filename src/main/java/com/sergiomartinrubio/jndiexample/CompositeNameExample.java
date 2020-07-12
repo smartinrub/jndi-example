@@ -7,7 +7,7 @@ public class CompositeNameExample {
 
     public static void main(String[] args) throws NamingException {
         CompositeName name = new CompositeName();
-        name.add("cn=homedir,cn=Sergio Martin,ou=People");
+        name.add("fileSystemRoot.rightChildComponent.rootComponent");
         name.add("tutorial");
         name.add("report.txt");
         System.out.println(name);
